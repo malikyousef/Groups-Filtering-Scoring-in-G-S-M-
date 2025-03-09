@@ -49,9 +49,8 @@ After filtering, the dataset was reduced to:
 
 Additionally, **DisGeNET** was used as the primary database for prior biological knowledge when experimenting. However, other biological knowledge databases, such as **Gene Ontology (GO)** and **KEGG PATHWAY**, could also be used to define gene groups and associations.
 
-## 
-
 ## **Setting Up the Environment**
+
 
 The Pre Scoring G-S-M workflow contains python and R scripts in it so to avoid any error one need to set up the KNIME Python settings following this path inside KNIME :
 
