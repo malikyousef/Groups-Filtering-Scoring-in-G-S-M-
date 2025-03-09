@@ -76,7 +76,7 @@ The Pre Scoring G-S-M workflow contains python and R scripts in it so to avoid a
 
 ## **Pre-Scoring G-S-M MetaNode Overview**
 
-![][images/2.png]
+![](images/2.png)
 
 ## 
 
@@ -91,9 +91,9 @@ The Pre Scoring G-S-M workflow contains python and R scripts in it so to avoid a
 * **Scoring Component (S):** Evaluates the groups using machine learning models such as **Random Forest**. 
 * **Modeling Component (M):** Builds predictive models using top-ranked groups to classify transcriptomic data.
 
-![][images/3.png]
+![](images/3.png)
 
 **Final Workflow Diagram**
 
-![][images/4.png]
+![](images/4.png)
 
