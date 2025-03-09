@@ -2,10 +2,10 @@
 
 ## **Authors**
 
-Maham Khokhar1, Burcu Bakir-Gungor2, and Malik Yousef3 
-1 Department of Data Science, Abdullah Gul University, Kayseri, Turkey
-2 Department of Computer Engineering,, Abdullah Gul University, Kayseri, Turkey
-3 Department of Information Systems, Galilee Digital Health Research Center, Zefat Academic College, Israel
+Maham Khokhar<sup>1</sup>, Burcu Bakir-Gungor<sup>2</sup>, and Malik Yousef<sup>3</sup>  
+1. Department of Data Science, Abdullah Gul University, Kayseri, Turkey  
+2. Department of Computer Engineering, Abdullah Gul University, Kayseri, Turkey  
+3. Department of Information Systems, Galilee Digital Health Research Center, Zefat Academic College, Israel
 
 **Correspondence:** [mahamkhokar96@gmail.com](mailto:mahamkhokar96@gmail.com)
 
@@ -77,11 +77,10 @@ The Pre Scoring G-S-M workflow contains python and R scripts in it so to avoid a
 
 ![](images/2.png)
 
-## 
 
 ## **The 4 main component of Pre-Scoring G-S-M**
 
-## **Workflow Components**
+### **Workflow Components**
 
 ### **Main Workflow:**
 
