@@ -51,8 +51,6 @@ Additionally, **DisGeNET** was used as the primary database for prior biological
 
 ## 
 
-## 
-
 ## **Setting Up the Environment**
 
 The Pre Scoring G-S-M workflow contains python and R scripts in it so to avoid any error one need to set up the KNIME Python settings following this path inside KNIME :
@@ -74,7 +72,7 @@ The Pre Scoring G-S-M workflow contains python and R scripts in it so to avoid a
    * Adjust the "MCCV Iterations" node for Monte Carlo Cross Validation (e.g., 10 or 100 iterations). 
    * Specify the percentage of top-ranked gene groups to retain for scoring (e.g., top 20%).
 
-![][images/1.png]
+![](images/1.png)
 
 ## **Pre-Scoring G-S-M MetaNode Overview**
 
